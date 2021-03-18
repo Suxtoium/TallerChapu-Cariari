@@ -21,7 +21,7 @@ if (isset($_SESSION['LOGIN'])) {
     <?php include 'templates/content.php'; ?>
 
     <?php include 'templates/footer.php'; ?>
-
+    <button class="btn btn-primary" type="button">Text</button>
 </body>
 
 </html>
